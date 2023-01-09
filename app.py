@@ -1,9 +1,8 @@
 import streamlit as st
 import openai
-import key
 
-openai.api_key = key.key
-print(key.key)
+openai.api_key = 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
+
 
 
 
